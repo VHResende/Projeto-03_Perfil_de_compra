@@ -1,6 +1,4 @@
-
-![vhrtech](https://github.com/user-attachments/assets/2bde85a2-3a4a-49fd-939e-30bfed5f28fe)
-
+![Fundo Linkedin_Ciência de Dados](https://github.com/user-attachments/assets/0aa9ee1f-9131-4f88-9f25-73b532d9b2f0)
 # Projeto 03_Análise do Comportamento de Navegação e Perfil de Compra
 Projeto 03_Ciência de Dados
 

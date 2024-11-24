@@ -1,5 +1,5 @@
 
-![Uploading vhrtech.jpeg…]()
+![vhrtech](https://github.com/user-attachments/assets/2bde85a2-3a4a-49fd-939e-30bfed5f28fe)
 
 # Projeto 03_Análise do Comportamento de Navegação e Perfil de Compra
 Projeto 03_Ciência de Dados

@@ -2,7 +2,7 @@
 **Victor Resende**
 _______________
 # Projeto 03_Análise do Comportamento de Navegação e Perfil de Compra
-**Projeto 03_Ciência de Dados**
+📊📈**Projeto 03_Ciência de Dados**
 _______________
 Projeto desenvolvido utilizando o Streamlit:
 

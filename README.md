@@ -10,6 +10,5 @@ Projeto desenvolvido utilizando o Streamlit:
 
 **Link para o aplicativo:**
 https://projeto-03perfildecompra-bpmpvgd5ma2zhsqttt4uys.streamlit.app/
-
-
-
+_______________
+📊 **by Victor Resende**
